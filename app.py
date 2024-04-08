@@ -4,6 +4,7 @@ def addition(a,b):
 def subtraction(a,b):
     return a-b
 
+### changes from developer a
 def multiplication(a,b):
     return a*b
 def division(a,b):
